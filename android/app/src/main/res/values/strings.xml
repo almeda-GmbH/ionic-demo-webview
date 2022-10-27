@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">ionic-webrtc-cam</string>
+    <string name="title_activity_main">ionic-webrtc-cam</string>
+    <string name="package_name">codes.gex.ionic.webrtc.cam</string>
+    <string name="custom_url_scheme">codes.gex.ionic.webrtc.cam</string>
+</resources>
